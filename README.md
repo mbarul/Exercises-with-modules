@@ -8,13 +8,13 @@
 
 # Programming
 
-## DataCamp
+### DataCamp
 
 | URL | Description |Technology|
 | :---: | --- | --- |
 | [DataCamp - roadmap of study](https://github.com/mbarul/DataCamp-roadmap-of-learning) | Completed courses: Python, SQL in the field of Data Science |**Python, SQL**|
 
-## Courses from Udemy
+### Courses from Udemy
 
 | URL | Description |Technology|
 | :---: | --- | --- |
