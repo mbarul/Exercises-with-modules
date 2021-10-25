@@ -1,7 +1,7 @@
 # Data Science Roadmap
 
 <p align="center"> 
-<img src="https://mlodziwlodzi.pl/wp-content/uploads/maxresdefault-1.jpg" width="600">
+<img src="https://www.techrepublic.com/a/hub/i/r/2021/02/17/3c192f18-47eb-428a-b64f-ba57fcd3c36a/resize/770x/f6331a1067a7b7fa04ef225a6493d63e/programming-coding.jpg" width="600">
 </p>
 
 
@@ -30,6 +30,7 @@
 
 ## Projects
 ### DataCamp
+#### Python
 | Project | Description |Technology|
 | --- | --- | --- |
 |[Investigating Netflix Movies and Guest Stars in The Office](https://github.com/mbarul/Data-Camp---roadmap-of-learning/blob/master/projects/python/Investigating%20Netflix%20Movies%20and%20Guest%20Stars%20in%20The%20Office/Investigating%20Netflix%20Movies%20and%20Guest%20Stars%20in%20The%20Office.ipynb)|A project that checks whether the length of films is shortened with the successive years.|**Python: pandas, matplotlib**|
