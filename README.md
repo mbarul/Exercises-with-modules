@@ -18,9 +18,13 @@
 
 | URL | Description |Technology|
 | :---: | --- | --- |
-| [Udemy - Python](https://www.udemy.com/course/the-complete-python-course/) | The Complete Python Course -> Learn Python by Doing |**Python**| 
-| [Udemy - 210+ Exercises - Python Standard Libraries - from A to Z](https://www.udemy.com/course/exercises-python-standard-libraries/) |Improve your Python programming skills and solve over 210 exercises with Python standard libraries! |**Python**| 
 | [Udemy - Object Oriented Programming - from A to Z](https://www.udemy.com/course/programowanie-obiektowe-jezyk-python-oop-kurs/) |Learn Object Oriented Language (OOP) in Python and open the door to a career in IT! -Python |**Python**| 
+| [Udemy - 210+ Exercises - Python Standard Libraries - from A to Z](https://www.udemy.com/course/exercises-python-standard-libraries/) |Improve your Python programming skills and solve over 210 exercises with Python standard libraries! |**Python**| 
+| [Udemy - Python](https://www.udemy.com/course/the-complete-python-course/) | The Complete Python Course -> Learn Python by Doing |**Python**| 
+| [Udemy - JavaScript](https://www.udemy.com/course/javascript-essentials/) | Learn how Javascript works, some basic API's and finally create a mini project. |**JavaScript**| 
+| [Udemy - Git and GitHub](https://www.udemy.com/course/kurs-git-i-github-od-podstaw/) | The basics of the most popular version control system. |**Git**|
+| [Udemy - Front-end intermediate](https://www.udemy.com/course/front-end-zaawansowany/) | Learn to use a web-based technique using CSS and JavaScript technology |**HTML5, CSS3, JavaScript**|
+| [Udemy - Web developer](https://www.udemy.com/course/kurs-web-developer-od-podstaw-w-15-dni/) | Get a solid foundation in HTML and CSS and gain the skills you need to create modern websites on your own. |**HTML5, CSS3**|
 
 ## Books
 | Title | Author |
@@ -29,8 +33,8 @@
 
 
 ## Projects
-### DataCamp
-#### Python
+### Python
+#### DataCamp
 | Project | Description |Technology|
 | --- | --- | --- |
 |[Investigating Netflix Movies and Guest Stars in The Office](https://github.com/mbarul/Data-Camp---roadmap-of-learning/blob/master/projects/python/Investigating%20Netflix%20Movies%20and%20Guest%20Stars%20in%20The%20Office/Investigating%20Netflix%20Movies%20and%20Guest%20Stars%20in%20The%20Office.ipynb)|A project that checks whether the length of films is shortened with the successive years.|**Python: pandas, matplotlib**|
@@ -45,3 +49,8 @@
 |[REST API NASA](https://github.com/mbarul/GUI-NASA-REST-API)|NASA - Picture of day application uses an API to extract Astronomy Picture of the Day data using URL requests and displays the relevant retrieved data from the API on to the GUI.|**Python: tkinter, tkcalendar, pillow (PIL), io, requests, urllib, json**|
 |[Pandas - data analysis](https://github.com/mbarul/pandas_data_analysis)|Data analysis created for the need to use it in a real life problem to find a solution.|**Python: Pandas**|
 |[Python - task automation](https://github.com/mbarul/Python-task-automation-excel)|An application built to accelerate repetitive activities in Excel. Working with data.|**Python: openpyxl, pandas, tkinter, glob, os.path, pyinstaller**|
+
+### Front-end (JS, CSS3, HTML5)
+| Project | Description |Technology|
+| --- | --- | --- |
+| [Weather website](https://lucid-brattain-3c17eb.netlify.app/)|Weather webstie - using a REST API from: **openweathermap**.|**JavaScript, CSS3, HTML5**|
