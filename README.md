@@ -16,6 +16,7 @@
 
 | URL | Description |Technology|
 | :---: | --- | --- |
+| [Udemy - Data Science Bootcamp - from A to Z](https://www.udemy.com/course/data-science-bootcamp-python/?utm_source=adwords&utm_medium=udemyads&utm_campaign=INTL-AW-PROS-TECH-Poland-DSA-WebIndex&utm_term=_._ag_100563868518_._ad_427601021502_._de_c_._dm__._pl__._ti_dsa-93451758763_._li_9067467_._pd__._&gclid=Cj0KCQjwwNWKBhDAARIsAJ8HkhcsBdrsFukEqBqRx8ngfRg9XQ4K0CtyKQNC5Zob8IsndocEk4mKyagaAq74EALw_wcB) |Enter the world of data science and open your way to the profession of the future - data scientist!  |**Python**| 
 | [Udemy - Object Oriented Programming - from A to Z](https://www.udemy.com/course/programowanie-obiektowe-jezyk-python-oop-kurs/) |Learn Object Oriented Language (OOP) in Python and open the door to a career in IT! -Python |**Python**| 
 | [Udemy - 210+ Exercises - Python Standard Libraries - from A to Z](https://www.udemy.com/course/exercises-python-standard-libraries/) |Improve your Python programming skills and solve over 210 exercises with Python standard libraries! |**Python**| 
 | [Udemy - Python](https://www.udemy.com/course/the-complete-python-course/) | The Complete Python Course -> Learn Python by Doing |**Python**| 
