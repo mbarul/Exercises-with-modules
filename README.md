@@ -46,7 +46,7 @@
 |[A Visual History of Nobel Prize](https://github.com/mbarul/Data-Camp---roadmap-of-learning/blob/master/projects/python/A%20Visual%20History%20of%20Nobel%20Prize%20Winners/A%20Visual%20History%20of%20Nobel%20Prize%20Winners.ipynb)|Data analysis based on the Nobel Prize.What characteristics for the prize winners have? Which country gets it most often? And has anybody gotten it twice? And many other questions we'll come to.|**Python: pandas, numpy, matplotlib, seaborn**|
 |[A New Era of Data Analysis in Baseball](https://github.com/mbarul/Data-Camp---roadmap-of-learning/blob/master/projects/python/A%20New%20Era%20of%20Data%20Analysis%20in%20Baseball/A%20New%20Era%20of%20Data%20Analysis%20in%20Baseball.ipynb)|In this project, we will analyze two outstanding baseball players and their statistics from Statcast|**Python: pandas, numpy, matplotlib, seaborn**|
 
-### Others
+#### Others
 | Project | Description |Technology|
 | --- | --- | --- |
 |[REST API NASA](https://github.com/mbarul/GUI-NASA-REST-API)|NASA - Picture of day application uses an API to extract Astronomy Picture of the Day data using URL requests and displays the relevant retrieved data from the API on to the GUI.|**Python: tkinter, tkcalendar, pillow (PIL), io, requests, urllib, json**|
