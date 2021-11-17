@@ -4,7 +4,11 @@
 <img src="https://www.techrepublic.com/a/hub/i/r/2021/02/17/3c192f18-47eb-428a-b64f-ba57fcd3c36a/resize/770x/f6331a1067a7b7fa04ef225a6493d63e/programming-coding.jpg" width="600">
 </p>
 
+### Code with Mosh
 
+| URL | Description |Technology|
+| :---: | --- | --- |
+| [The Ultimate Django Series: Part 1](https://codewithmosh.com/p/the-ultimate-django-part1) | Master the Fundamentals of Web Development with Python and Django 3.2+ |**Python**|
 
 ### DataCamp
 
