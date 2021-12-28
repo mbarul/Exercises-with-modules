@@ -46,6 +46,11 @@
 |[A Visual History of Nobel Prize](https://github.com/mbarul/Data-Camp---roadmap-of-learning/blob/master/projects/python/A%20Visual%20History%20of%20Nobel%20Prize%20Winners/A%20Visual%20History%20of%20Nobel%20Prize%20Winners.ipynb)|Data analysis based on the Nobel Prize.What characteristics for the prize winners have? Which country gets it most often? And has anybody gotten it twice? And many other questions we'll come to.|**Python: pandas, numpy, matplotlib, seaborn**|
 |[A New Era of Data Analysis in Baseball](https://github.com/mbarul/Data-Camp---roadmap-of-learning/blob/master/projects/python/A%20New%20Era%20of%20Data%20Analysis%20in%20Baseball/A%20New%20Era%20of%20Data%20Analysis%20in%20Baseball.ipynb)|In this project, we will analyze two outstanding baseball players and their statistics from Statcast|**Python: pandas, numpy, matplotlib, seaborn**|
 
+#### Python - DJANGO
+| Project | Description |Technology|
+| --- | --- | --- |
+|[To-do List](https://tsktskapp.herokuapp.com/)| To-do list - to organize our time better | **Python: django, sqlite**|
+
 #### Others
 | Project | Description |Technology|
 | --- | --- | --- |
