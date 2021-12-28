@@ -49,7 +49,7 @@
 #### Python - DJANGO
 | Project | Description |Technology|
 | --- | --- | --- |
-|[To-do List](https://tsktskapp.herokuapp.com/)| To-do list - to organize our time better | **Python: django, sqlite**|
+|[To-do List](https://tsktskapp.herokuapp.com/)| A list of tasks that need to be completed, typically organized in order of priority. | **Python: django, sqlite**|
 
 #### Others
 | Project | Description |Technology|
